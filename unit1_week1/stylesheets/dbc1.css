@@ -20,14 +20,8 @@ color: yellow; background: green; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZ
 body {
 COLOR: #000000; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-VARIANT: normal; background-image: url('bkgnd.gif')
 }
-}
 background-image: url(http://thewebshoppe.net/wp-content/uploads/awesome-background1-530x397.jpg)
 }
-h1 {
-  color: #009900;
-  font-family: Verdana, serif;
-  }
-  
   .greenboldtext{
   font-size: small;
   color: #008080;
