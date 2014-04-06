@@ -1,18 +1,12 @@
-p{
-  color:blue;
-  font-family: 'Helvetica';
-}
-.red{
-  color:red;
-}
-#special{
-  font-family: Arial;
-}
+background-image: url(http://thewebshoppe.net/wp-content/uploads/awesome-background1-530x397.jpg)
 
-  <p>Paragraph</p>
-  <p class ="green">Paragraph</p>
-  <p class ="red">Paragraph</p>
-  <p class = "red" id ="special">Paragraph</p>
+h1 {
+  color: #009900;
+  font-family: Verdana, serif;
+  }
   
-  
- background-image: url(http://thewebshoppe.net/wp-content/uploads/awesome-background1-530x397.jpg)
+  .greenboldtext{
+  font-size: small;
+  color: #008080;
+  font-weight: bold;
+}
