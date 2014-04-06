@@ -8,3 +8,8 @@ p{
 #special{
   font-family: Arial;
 }
+
+  <p>Paragraph</p>
+  <p class ="green">Paragraph</p>
+  <p class ="red">Paragraph</p>
+  <p class = "red" id ="special">Paragraph</p>
