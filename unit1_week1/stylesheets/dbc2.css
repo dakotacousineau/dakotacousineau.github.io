@@ -35,15 +35,13 @@ body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&sourc
   #image
 {    
     position:center;
-    left:0;
-    top:0;
 }
   #text
 {
-    z-index:100;
-    position:center;    
+    z-index:2;
+    position:absolute;    
     color:white;
-    font-size:24px;
+    font-size:34px;
     font-weight:bold;
     left:150px;
     top:300px;
