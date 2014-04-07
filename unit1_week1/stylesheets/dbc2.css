@@ -40,10 +40,10 @@ body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&sourc
 }
   #text
 {
-    z-index:2;
+    z-index:100;
     position:center;    
     color:white;
-    font-size:34px;
+    font-size:24px;
     font-weight:bold;
     left:150px;
     top:300px;
