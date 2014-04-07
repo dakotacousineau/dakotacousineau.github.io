@@ -27,8 +27,8 @@ body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&sourc
   
   #braveheart
 {
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     position:center;
 }
 
@@ -45,6 +45,6 @@ body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&sourc
     color:white;
     font-size:34px;
     font-weight:bold;
-    left:200px;
-    top:200px;
+    left:150px;
+    top:300px;
 }
