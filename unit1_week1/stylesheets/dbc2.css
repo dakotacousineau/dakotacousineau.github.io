@@ -23,4 +23,19 @@ body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&sourc
   background: #eeeeee;
 }
 
-.column a:visited {color: #00FF00;}
+.content a:visited {color: #00FF00;}
+  
+  .top{
+    position: absolute; 
+    bottom: 15px; 
+    left:60px; 
+    background-color: green; 
+    z-index: 2;
+  }
+  
+  .bottom{
+    position: absolute; 
+    bottom: 10px; 
+    left:60px; 
+    background-color: yellow;
+  }
