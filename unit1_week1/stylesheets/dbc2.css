@@ -22,3 +22,5 @@ body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&sourc
   border: 1px solid #666;
   background: #eeeeee;
 }
+
+.column a:visited {color: #333333;}
