@@ -3,9 +3,12 @@
   color: red;
 }
 
-body {background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=Uvitfrux_ti77M&tbnid=xNmqpW1leV97RM:&ved=0CAUQjRw&url=http%3A%2F%2Fnhlwallpapers10.net%2Fcategory%2Fdetroit-red-wings%2Fpage%2F7&ei=E_5BU-7yI8KfyQHs44CgBQ&bvm=bv.64125504,d.aWc&psig=AFQjCNHnNd5yi1cy-JbKUKrQZXeaXLsp_w&ust=1396920201471301");} 
+body 
+{background-image:url("http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=Uvitfrux_ti77M&tbnid=xNmqpW1leV97RM:&ved=0CAUQjRw&url=http%3A%2F%2Fnhlwallpapers10.net%2Fcategory%2Fdetroit-red-wings%2Fpage%2F7&ei=E_5BU-7yI8KfyQHs44CgBQ&bvm=bv.64125504,d.aWc&psig=AFQjCNHnNd5yi1cy-JbKUKrQZXeaXLsp_w&ust=1396920201471301");
+} 
 
-.italic{
+.italic
+{
   font-style: italic;
 }
   body{
