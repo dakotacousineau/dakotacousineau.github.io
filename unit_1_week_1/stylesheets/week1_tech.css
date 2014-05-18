@@ -20,7 +20,15 @@ color: yellow; background: green; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZ
 body {
 COLOR: #000000; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-VARIANT: normal; background-image: url('bkgnd.gif')
 }
-body {background-image:url("http://www.zingerbugimages.com/backgrounds/wrinkled_lime_green_paper_background_1800x1600.jpg");} 
+
+body{
+background-color:rgb(0,0,0);
+background-image:url(http://www.zingerbugimages.com/backgrounds/wrinkled_lime_green_paper_background_1800x1600.jpg);
+background-position:center center;
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+</Style> 
 
 p {
   .greenboldtext{
