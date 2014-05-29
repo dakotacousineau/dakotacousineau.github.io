@@ -20,7 +20,7 @@ color: yellow; background: green; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZ
 body {
 COLOR: #000000; FONT-FAMILY: lucida-sans, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-VARIANT: normal; background-image: url('bkgnd.gif')
 }
-body {background-image:url("http://2.cdn.nhle.com/redwings/v2/ext/Wallpapers/2012/Hockeytown_1600x900.jpg");} 
+body {background-image:url("http://2.cdn.nhle.com/redwings/v2/ext/Wallpapers/2012/Hockeytown_1600x900.jpg"); 
 
 p {
   .greenboldtext{
