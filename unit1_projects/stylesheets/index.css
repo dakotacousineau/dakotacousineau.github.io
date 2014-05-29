@@ -27,3 +27,8 @@ body{
         a:hover {color: red;}
         a:active {color: purple};
         a:visited {color: green;
+
+        img {
+            max-width: 50%;
+            max-height: 50%
+        }
