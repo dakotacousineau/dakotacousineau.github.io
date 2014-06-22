@@ -79,9 +79,12 @@ function summary(client){
 
 // 4. "But wait, there's more!"
 
+clients.jimcarrey["showQuote"] = function(quote) {return quote}
 
 
 // 5.  ** BONUS **
 
 
 //  6.  Your Reflection:
+// I did this with my partner awhile ago and was completly lost when we created it.
+// After going through the rest of the chapter JavaScript made much more sense. Wish I could redo this meeting.
