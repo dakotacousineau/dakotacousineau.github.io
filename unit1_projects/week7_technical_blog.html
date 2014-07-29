@@ -1,0 +1,23 @@
+<!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <div class="center">
+    <title>Week 7 technical blog</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/week1_tech.css" charset="utf-8"/>
+    <style>
+    p.padding
+    {padding:6em 15em;}
+    </style>
+  </head>
+  <body>
+    <h1>Dakota's Technical Blog</h1>
+    <h2>"Week 7 "</h2>
+    <h3>"Optimizing SQL database"
+        <p class="padding">After doing some research SQL is a fragile thing and a few mistakes could kill the database. Some things to do to optimize searches are fairly easy and could greatly reduce the time it takes for a return. When performing a search use symbol operators such as >,=, <, which leads us to how to use those operators and wildcards. If possible use >= or like operators because it will search the database and jump directly to the desired number where as a > operator will have to scan for the listed item then scan back taking more time. Searching a database using a wildcard like % will search the entire database where as you can postfix search instead like 'item%', or prefix '%item'. The easiest fix is simple wording howeve. Try to avaid NOT operators because they search the whole database making sure they are not the item where as using a positive operator like LIKE stops the search once the match is found. You can also limit the results for example SELECT * FROM TABLE WHERE 1 LIMIT 10 would stop the search after 10 results which would help stop poor searches from breaking the database.
+
+         All together a few minor changes to how you search can have a huge impact in the time it takes for results and the damage poor searches can inflict on your database.</p>
+         </body>
+         </div>
+    </html>
+
+    
